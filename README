@@ -1,0 +1,3 @@
+DOCKER IMAGE RETRIEVAL TOOL (DIRT)
+
+Golang based tool to retrieve docker image, retag it and push it to private repo. 
